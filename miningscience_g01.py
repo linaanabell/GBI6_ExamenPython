@@ -10,7 +10,7 @@ import itertools
 def download_pubmed(keyword): 
     """Con la función ENTREZ me permite hacer directamente la busqueda en la base
        datos de PUBMED y con las keyword que se emplearán en los ejercicios 
-       dengue - cancer
+       Mycobacterium - Pulmonary Fibrosis
     """
     Entrez.email = "gualapuro.moises@gmail.com"
     handle = Entrez.esearch (db = "pubmed",
