@@ -15,8 +15,17 @@ Se realizar el examen del segundo parcial Python
 ## PROGRAMAS UTILIZADOS
 - Python v 3.9.12
 - Anaconda Command v 1.9.0
+- Github 3.
 ## MODULOS EMPLEADOS
+- Bio
 - Pandas
 - Itertools
+- re
+- csv
 - miningscience_g01.py
 ## DATA EMPLEADA
+- Se empleo la base de datos PubMed 
+- Se usa las palabras claves (keywords) Mycobacterium y Pulmonary Fibrosis para extraer la data de pubmed como un archivo txt
+- Se usará la data obtenida de PubMed para obtener el plot.pie de los cinco autores más repetidos de las keywords 
+- Se realizará un conteo de las palabras claves "Mycobacterium" y "Pulmonary Fibrosis"
+- Se realizará un pie.plot de las palabras claves (keywords)
